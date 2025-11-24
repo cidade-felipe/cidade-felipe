@@ -18,10 +18,10 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 
 ## 💼 O que faço hoje
 
-- Pesquiso e desenvolvo soluções com dados e IA para EAD
-- Estudo backend com organização e boas práticas
-- Transformo trabalhos de faculdade em projetos reais
-- Exploro automação, ML e visualização de dados
+- Pesquiso e desenvolvo soluções com dados e IA para EAD  
+- Estudo backend com organização e boas práticas  
+- Transformo trabalhos de faculdade em projetos reais  
+- Exploro automação, ML e visualização de dados  
 
 ---
 
@@ -43,7 +43,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, Java, HTML, CSS, JavaScript  
 Banco de dados: PostgreSQL  
 Ferramentas: Git, GitHub, VSCode, PgAdmin  
-Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e visualização de dados
+Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e visualização de dados  
 
 ---
 
@@ -60,19 +60,36 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-🔹 **CalcGLP**  
-Ferramenta em Python para dimensionamento de centrais de GLP seguindo normas de engenharia.
+<table>
+  <tr>
+    <td width="30%">
+      <strong>CityBot</strong><br>
+      <small>Assistente que interpreta arquivos e responde com contexto usando IA.</small><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+      <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="22">
+      <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="22"><br><br>
+      <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
+    </td>
 
-🔹 **Heart Disease ML Pipeline**  
-Pipeline completo de machine learning para análise e predição de doença cardíaca.
+  <td width="30%">
+      <strong>Heart Disease ML Pipeline</strong><br>
+      <small>Pipeline completo para predição de doença cardíaca com avaliação explicável.</small><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
+      <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22"><br><br>
+      <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
+    </td>
 
-🔹 **CityBot**  
-Assistente em Python que analisa arquivos e gera respostas contextualizadas com IA.
-
-🔹 **Organizador de Pastas**  
-Automação prática em Python que classifica arquivos automaticamente com base em regras.
-
-> Assim que cada projeto tiver README próprio, os links serão adicionados aqui.
+  <td width="30%">
+      <strong>Analisador de Arquivos</strong><br>
+      <small>Ferramenta que identifica, processa e extrai dados automaticamente de diversos formatos.</small><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+      <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
+      <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22"><br><br>
+      <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,7 +98,7 @@ Automação prática em Python que classifica arquivos automaticamente com base 
 - APIs com FastAPI  
 - Dashboards e visualização com Plotly  
 - ML para educação  
-- Design limpo de projetos e documentação técnica
+- Design limpo de projetos e documentação técnica  
 
 ---
 
