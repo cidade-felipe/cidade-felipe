@@ -1,17 +1,27 @@
 # Felipe Cidade 👨‍💻  
 
-Estudo Tecnologias da Informação e Comunicação na UFSC e gosto de entender como as coisas funcionam antes de sair construindo. O que mais me atrai é transformar curiosidade em algo útil, misturando engenharia, educação e dados com software.
+Estudo Tecnologias da Informação e Comunicação na UFSC e gosto de entender como as coisas funcionam antes de sair construindo. O que mais me atrai é transformar curiosidade em algo útil, misturando engenharia, educação e dados para criar soluções práticas.
 
 Hoje passo boa parte do tempo programando em Python, analisando dados, integrando com PostgreSQL e experimentando machine learning. Meu foco é resolver problemas de verdade, não só produzir código bonito para print de tela.
+
+<div align="center">
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-ativo-brightgreen)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Area](https://img.shields.io/badge/foco-dados%20%7C%20backend-orange)
+![UFSC](https://img.shields.io/badge/UFSC-TIC-lightgrey)
+
+</div>
 
 ---
 
 ## 💼 O que faço hoje
 
-- Pesquiso e desenvolvo soluções com IA focadas em EAD
-- Estudo backend com boas práticas, organização e design simples
+- Pesquiso e desenvolvo soluções com dados e IA para EAD
+- Estudo backend com organização e boas práticas
 - Transformo trabalhos de faculdade em projetos reais
-- Me aprofundo em análise de dados e visualização aplicada
+- Exploro automação, ML e visualização de dados
 
 ---
 
@@ -37,7 +47,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -50,32 +60,28 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-🔹 **Sistema Hoteleiro com Python + PostgreSQL**  
-Modelagem do banco, consultas automatizadas em SQL e integração com scripts Python.  
-→ Repositório sugerido: `hotel-management-db`
+🔹 **CalcGLP**  
+Ferramenta em Python para dimensionamento de centrais de GLP seguindo normas de engenharia.
 
-🔹 **Análise de Dados Cardíacos com Machine Learning**  
-Preprocessamento completo, classificação, comparação de modelos e interpretação com gráficos.  
-→ Repositório sugerido: `cardio-ml-analysis`
+🔹 **Heart Disease ML Pipeline**  
+Pipeline completo de machine learning para análise e predição de doença cardíaca.
 
-🔹 **Predição de Risco Acadêmico em EAD**  
-Análise de dados educacionais e modelagem preditiva inspirada em aplicação real de universidade.  
-→ Repositório sugerido: `ead-academic-risk`
+🔹 **CityBot**  
+Assistente em Python que analisa arquivos e gera respostas contextualizadas com IA.
 
-🔹 **Dimensionamento Inteligente de GLP**  
-Ferramenta técnica de cálculo que segue normas brasileiras de instalações de gás.  
-→ Repositório sugerido: `glp-dimensionamento`
+🔹 **Organizador de Pastas**  
+Automação prática em Python que classifica arquivos automaticamente com base em regras.
 
-> Assim que cada README desses estiver pronto, atualizo os links e deixo tudo clicável.
+> Assim que cada projeto tiver README próprio, os links serão adicionados aqui.
 
 ---
 
 ## 🌱 No que estou me aprofundando
 
 - APIs com FastAPI  
-- Dashboards com Plotly  
+- Dashboards e visualização com Plotly  
 - ML para educação  
-- Design de projetos limpos e reutilizáveis
+- Design limpo de projetos e documentação técnica
 
 ---
 
