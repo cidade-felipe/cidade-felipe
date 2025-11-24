@@ -51,8 +51,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=cidade-felipe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github"/>
-<img height="160em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight&card_width=320"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cidade-felipe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight&card_width=320"/>
 
 </div>
 
