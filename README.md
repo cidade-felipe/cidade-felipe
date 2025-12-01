@@ -55,6 +55,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 </div>
 
+---
 
 ## 📌 Projetos que me representam
 
@@ -84,7 +85,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="25%">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Prouni Data Insights</strong><br>
         <small>Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.</small><br><br>
