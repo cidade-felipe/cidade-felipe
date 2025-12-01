@@ -94,15 +94,16 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
       </div>
     </td>
     <td width="50%" style="padding: 5px;">
-      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
-        <strong>Analisador de Arquivos</strong><br>
-        <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
-        <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22"><br><br>
-        <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
-      </div>
-    </td>
+  <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
+    <strong>Analisador de Arquivos</strong><br>
+    <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small><br><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+    <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
+    <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22">
+    <img src="https://img.shields.io/badge/RAG-A020F0?style=for-the-badge&logo=openai&logoColor=white" height="22"><br><br>
+    <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
+  </div>
+</td>
   </tr>
 
   <td width="50%" style="padding: 5px;">
