@@ -74,7 +74,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
   
     <tr>
-      <td width="50%>
+      <td width="50% colspan="2">
         <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
           <strong>Heart Disease ML Pipeline</strong><br>
           <small>Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small><br><br>
