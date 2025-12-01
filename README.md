@@ -72,6 +72,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
       </div>
     </td>
+
+    
     <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Heart Disease ML Pipeline</strong><br>
@@ -82,7 +84,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge&logo=jupyter&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="22"><br><br>
         <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
       </div>
     </td>
