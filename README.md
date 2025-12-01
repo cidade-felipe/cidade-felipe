@@ -68,7 +68,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <small>Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="22"><br><br>
+        <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="22">
+        <br><br>
         <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
       </div>
     </td>
@@ -82,7 +83,6 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
     <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22">
-    
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="22">
     <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="22">
     <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="22">
@@ -114,7 +114,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
     <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
     <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22">
-    <img src="https://img.shields.io/badge/RAG-A020F0?style=for-the-badge&logo=openai&logoColor=white" height="22"><br><br>
+    <img src="https://img.shields.io/badge/RAG-A020F0?style=for-the-badge&logo=openai&logoColor=white" height="22">
+    <br><br>
     <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
   </div>
 </td>
@@ -126,7 +127,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <strong>PET CLININ – Website</strong><br>
         <small>Interface de Usuário (Front-end) da franquia PET CLININ. Desenvolvimento de um site completo para uma clínica veterinária fictícia. O projeto foca na Experiência do Usuário (UX), criando um design limpo, moderno e responsivo para apresentar serviços, informações sobre a clínica e um fluxo simulado de agendamento de consultas.</small><br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22"><br><br>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22">
+        <br><br>
         <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
       </div>
     </td>
@@ -136,13 +138,13 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22"><br><br>
+        <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22">
+        <br><br>
         <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
       </div>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🌱 No que estou me aprofundando
