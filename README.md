@@ -78,6 +78,13 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
       <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
     </td>
 
+    <td width="30%">
+      <strong>Prouni Data Insights</strong><br>
+      <small>Análise de dados de concessão de bolsas do Prouni (2005-2019).</small><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+      <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
+    </td>
+  
   <td width="30%">
       <strong>Analisador de Arquivos</strong><br>
       <small>Ferramenta que identifica, processa e extrai dados automaticamente de diversos formatos.</small><br><br>
