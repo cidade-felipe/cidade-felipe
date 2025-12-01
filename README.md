@@ -59,9 +59,9 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-<table align="center">
+<table align="center" style="width: 700px; border-collapse: collapse;">
   <tr>
-    <td width="50%">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>CityBot</strong><br>
         <small>Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.</small><br><br>
@@ -71,7 +71,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Heart Disease ML Pipeline</strong><br>
         <small>Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small><br><br>
@@ -84,7 +84,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
   
   <tr>
-    <td width="50%">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Prouni Data Insights</strong><br>
         <small>Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.</small><br><br>
@@ -92,7 +92,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Analisador de Arquivos</strong><br>
         <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small><br><br>
@@ -105,7 +105,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>PET CLININ – Website</strong><br>
         <small>Front-end de um site fictício de uma franquia de pet shop chamada.</small><br><br>
@@ -115,10 +115,12 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
       </div>
     </td>
+    <td width="50%" style="padding: 5px;">
+      </td>
   </tr>
-  
+  
   <tr>
-    <td width="50%" colspan="1">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>World Happiness Prediction</strong><br>
         <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small><br><br>
@@ -128,6 +130,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
       </div>
     </td>
+    <td width="50%" style="padding: 5px;">
+      </td>
   </tr>
 </table>
 
