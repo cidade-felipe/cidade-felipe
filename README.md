@@ -109,7 +109,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>PET CLININ – Website</strong><br>
-        <small>Front-end de um site fictício de uma franquia de pet shop chamada.</small><br><br>
+        <small>Interface de Usuário (Front-end) da franquia PET CLININ. Desenvolvimento de um site completo para uma clínica veterinária fictícia. O projeto foca na Experiência do Usuário (UX), criando um design limpo, moderno e responsivo para apresentar serviços, informações sobre a clínica e um fluxo simulado de agendamento de consultas.</small><br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="22"><br><br>
         <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
