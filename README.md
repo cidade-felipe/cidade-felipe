@@ -58,7 +58,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-<div align="center">
+<p align="center">
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     </td>
 
     <td width="50%">
-      <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Heart Disease ML Pipeline</strong><br>
         <small>Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
@@ -87,7 +87,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
   <tr>
     <td width="50%">
-      <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Prouni Data Insights</strong><br>
         <small>Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"><br><br>
@@ -96,7 +96,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     </td>
 
     <td width="50%">
-      <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>Analisador de Arquivos</strong><br>
         <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
@@ -109,7 +109,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
   <tr>
     <td width="100%" colspan="2">
-      <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>World Happiness Prediction</strong><br>
         <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
@@ -121,7 +121,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
 </table>
 
-</div>
+</p>
+
 
 
 ---
