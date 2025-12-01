@@ -60,6 +60,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 ## 📌 Projetos que me representam
 
 <table align="center" style="width: 700px; border-collapse: collapse;">
+  
   <tr>
     <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
@@ -105,7 +106,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
 
   <tr>
-    <td width="50%" style="padding: 5px;">
+    <td width="100%" colspan="2" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>PET CLININ – Website</strong><br>
         <small>Front-end de um site fictício de uma franquia de pet shop chamada.</small><br><br>
@@ -115,12 +116,10 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
       </div>
     </td>
-    <td width="50%" style="padding: 5px;">
-      </td>
   </tr>
   
   <tr>
-    <td width="50%" style="padding: 5px;">
+    <td width="100%" colspan="2" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>World Happiness Prediction</strong><br>
         <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small><br><br>
@@ -130,8 +129,6 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
       </div>
     </td>
-    <td width="50%" style="padding: 5px;">
-      </td>
   </tr>
 </table>
 
