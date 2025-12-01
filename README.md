@@ -106,26 +106,23 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
   </tr>
 
   <tr>
-    <td width="100%" colspan="2" style="padding: 5px;">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>PET CLININ – Website</strong><br>
         <small>Front-end de um site fictício de uma franquia de pet shop chamada.</small><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
         <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge" height="22"><br><br>
+        <img src="https://img-shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge" height="22"><br><br>
         <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
       </div>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="100%" colspan="2" style="padding: 5px;">
+    <td width="50%" style="padding: 5px;">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
         <strong>World Happiness Prediction</strong><br>
         <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
-        <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge" height="22"><br><br>
+        <img src="https://img-shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+        <img src="https://img-shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
+        <img src="https://img-shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge" height="22"><br><br>
         <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
       </div>
     </td>
