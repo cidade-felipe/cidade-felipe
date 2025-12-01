@@ -94,7 +94,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
         <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
       </div>
     </td>
-
+  </tr>
+    
     <tr>
     <td width="50%">
       <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
