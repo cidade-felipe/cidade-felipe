@@ -58,43 +58,71 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-<table>
-  <tr>
-    <td width="30%">
-      <strong>CityBot</strong><br>
-      <small>Assistente que interpreta arquivos e responde com contexto usando IA.</small><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-      <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="22">
-      <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="22"><br><br>
-      <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
-    </td>
+<div align="center">
 
-  <td width="30%">
-      <strong>Heart Disease ML Pipeline</strong><br>
-      <small>Pipeline completo para predição de doença cardíaca com avaliação explicável.</small><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
-      <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22"><br><br>
-      <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
-    </td>
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; text-align:left;">
+          <strong>CityBot</strong><br>
+          <small>Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.</small><br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="22"><br><br>
+          <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
+        </div>
+      </td>
 
-    <td width="30%">
-      <strong>Prouni Data Insights</strong><br>
-      <small>Análise de dados de concessão de bolsas do Prouni (2005-2019).</small><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-      <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
-    </td>
-  
-  <td width="30%">
-      <strong>Analisador de Arquivos</strong><br>
-      <small>Ferramenta que identifica, processa e extrai dados automaticamente de diversos formatos.</small><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
-      <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
-      <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22"><br><br>
-      <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
-    </td>
-  </tr>
-</table>
+      <td width="50%">
+        <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+          <strong>Heart Disease ML Pipeline</strong><br>
+          <small>Pipeline completo para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small><br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="22"><br><br>
+          <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="50%">
+        <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+          <strong>Prouni Data Insights</strong><br>
+          <small>Exploração dos dados de concessão de bolsas do Prouni com gráficos, filtros e análises temporais.</small><br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"><br><br>
+          <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
+        </div>
+      </td>
+
+      <td width="50%">
+        <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+          <strong>Analisador de Arquivos</strong><br>
+          <small>Ferramenta que identifica formatos, extrai texto, organiza conteúdo e gera dados estruturados.</small><br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="22">
+          <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="22"><br><br>
+          <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="100%" colspan="2">
+        <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px; text-align:left;">
+          <strong>World Happiness Prediction</strong><br>
+          <small>Modelagem e visualização do Índice de Felicidade mundial com regressão, SHAP e mapa interativo.</small><br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Data%20Visualization-1E90FF?style=for-the-badge" height="22"><br><br>
+          <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
