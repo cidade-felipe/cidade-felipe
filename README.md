@@ -178,7 +178,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 <img src="https://img.shields.io/badge/XGBoost-FF4500?style=for-the-badge" height="24">
 </div>
 <div style="margin-top:14px;">
-<a href="https://github.com/cidade-felipe/ecommerce-shipping-analysis">🔗 Acessar repositório</a>
+<a href="https://github.com/cidade-felipe/ecommerce-shipping-analytics">🔗 Acessar repositório</a>
 </div>
 </div>
 </td>
