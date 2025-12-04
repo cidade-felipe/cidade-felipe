@@ -59,37 +59,192 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 ## 📌 Projetos que me representam
 
-<table align="center" style="width: 700px; border-collapse: collapse;"> <tr> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+<table align="center" style="width: 700px; border-collapse: collapse;">
 
-<strong>CityBot</strong><br>
-<small>Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.</small>
+  <!-- Linha 1 -->
+  <tr>
+    <td width="50%" style="padding: 5px; vertical-align: top;">
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="24"> </div> <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a> </div> </div> </td> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+      <!-- CityBot -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>CityBot</strong><br>
+        <small>Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.</small>
 
-<strong>Heart Disease ML Pipeline</strong><br>
-<small>Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small>
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Processamento%20de%20Arquivos-8A2BE2?style=for-the-badge" height="24">
+        </div>
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24"> </div> <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a> </div> </div> </td> </tr> <tr> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/citybot">🔗 Acessar repositório</a>
+        </div>
+      </div>
 
-<strong>Prouni Data Insights</strong><br>
-<small>Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.</small>
+    </td>
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge&logo=jupyter&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24"> </div> <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a> </div> </div> </td> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid:#30363d; border-radius:12px; padding:16px;">
+    <td width="50%" style="padding: 5px; vertical-align: top;">
 
-<strong>Analisador de Arquivos</strong><br>
-<small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small>
+      <!-- Heart Disease ML Pipeline -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>Heart Disease ML Pipeline</strong><br>
+        <small>Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.</small>
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="24"> <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="24"> <img src="https://img.shields.io/badge/RAG-A020F0?style=for-the-badge&logo=openai&logoColor=white" height="24"> </div> <div style="margin-top:14px;"> <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24"></div> </div><a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>  </td> </tr> <tr> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24">
+        </div>
 
-<strong>PET CLININ – Website</strong><br>
-<small>Interface Front-end de uma clínica veterinária fictícia, com design responsivo e foco em UX.</small>
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/heart-disease-ml-pipeline">🔗 Acessar repositório</a>
+        </div>
+      </div>
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"> </div> <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a> </div> </div> </td> <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+    </td>
+  </tr>
 
-<strong>World Happiness Prediction</strong><br>
-<small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small>
+  <!-- Linha 2 -->
+  <tr>
+    <td width="50%" style="padding: 5px; vertical-align: top;">
 
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24"> </div> <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a> </div> </div> </td> </tr> </table>
+      <!-- Prouni Data Insights -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>Prouni Data Insights</strong><br>
+        <small>Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge&logo=jupyter&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+
+    <td width="50%" style="padding: 5px; vertical-align: top;">
+
+      <!-- Analisador de Arquivos -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>Analisador de Arquivos</strong><br>
+        <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/ETL-FFA500?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/RAG-A020F0?style=for-the-badge&logo=openai&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/analisador-arquivos">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+  </tr>
+
+  <!-- Linha 3 -->
+  <tr>
+    <td width="50%" style="padding: 5px; vertical-align: top;">
+
+      <!-- PET CLININ -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>PET CLININ – Website</strong><br>
+        <small>Interface Front-end de uma clínica veterinária fictícia, com design responsivo e foco em UX.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+
+    <td width="50%" style="padding: 5px; vertical-align: top;">
+
+      <!-- World Happiness Prediction -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>World Happiness Prediction</strong><br>
+        <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+  </tr>
+
+  <!-- Linha 4 - NOVOS PROJETOS -->
+  <tr>
+    <td width="50%" style="padding: 5px; vertical-align: top;">
+
+      <!-- Ecommerce Shipping Analysis -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>Ecommerce Shipping Analysis</strong><br>
+        <small>Análise logística do e-commerce brasileiro com gráficos interativos, mapas e modelos de machine learning.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/XGBoost-FF4500?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/Random%20Forest-006400?style=for-the-badge" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/ecommerce-shipping-analysis">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+
+    <td width="50%" style="padding: 5px; vertical-align: top;">
+
+      <!-- Nova Wika HP -->
+      <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+        <strong>Nova Wika HP</strong><br>
+        <small>Sistema inspirado no universo Harry Potter que organiza feitiços, efeitos e características mágicas.</small>
+
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Data%20Modeling-4B0082?style=for-the-badge" height="24">
+          <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="24">
+          <img src="https://img.shields.io/badge/Automation-008000?style=for-the-badge" height="24">
+        </div>
+
+        <div style="margin-top:14px;">
+          <a href="https://github.com/cidade-felipe/nova-wika-hp">🔗 Acessar repositório</a>
+        </div>
+      </div>
+
+    </td>
+  </tr>
+
+</table>
+
 ---
 
 ## 🌱 No que estou me aprofundando
