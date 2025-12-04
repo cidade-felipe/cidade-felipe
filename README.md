@@ -188,10 +188,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 <strong>Nova Wika HP</strong><br>
 <small>Sistema inspirado no universo Harry Potter que organiza feitiços, efeitos e estruturas mágicas.</small>
 <div style="margin-top:12px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
-<img src="https://img.shields.io/badge/Data%20Modeling-4B0082?style=for-the-badge" height="24">
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="24">
-<img src="https://img.shields.io/badge/Automation-008000?style=for-the-badge" height="24">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24">
 </div>
 <div style="margin-top:14px;">
 <a href="https://github.com/cidade-felipe/nova-wika-hp">🔗 Acessar repositório</a>
