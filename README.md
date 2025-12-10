@@ -117,7 +117,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 
 <td width="50%" style="padding: 5px; vertical-align: top;">
 <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
-<strong>Analisador de Arquivos</strong><br>
+<strong>City File Lab</strong><br>
 <small>Ferramenta que identifica formatos, extrai conteúdo e organiza dados estruturados.</small>
 <div style="margin-top:12px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
