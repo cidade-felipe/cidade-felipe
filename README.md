@@ -39,7 +39,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 
 </div>
 
-Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, Java, HTML, CSS, JavaScript  
+Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
 Banco de dados: PostgreSQL  
 Ferramentas: Git, GitHub, VSCode, PgAdmin  
 Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e visualização de dados  
