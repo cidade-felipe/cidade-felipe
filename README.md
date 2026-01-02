@@ -35,6 +35,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupter/jupter-notebook-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
 </div>
