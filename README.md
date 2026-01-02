@@ -224,6 +224,3 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 ---
 
 Curiosidade faz perguntas. Código tenta responder. Quando não compila, a resposta vem no processo.
-
-
-Substitui o PET CLININ por esse repo
