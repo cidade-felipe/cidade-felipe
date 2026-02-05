@@ -213,13 +213,14 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     </div>
     <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/smart-city-os">🔗 Acessar repositório</a> </div> </div>
   </td>
+  
   <td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
     <strong>Student Course Completion Prediction Dataset</strong><br>
     <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small> 
     <div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> 
       <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24"> 
       <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24"> </div>
-    <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/world-happiness-prediction">🔗 Acessar repositório</a>
+    <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/Student-Course-Completion-Prediction-Dataset">🔗 Acessar repositório</a>
     </div> 
   </div> 
   </td> 
