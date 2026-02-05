@@ -218,8 +218,10 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
     <strong>Student Course Completion Prediction Dataset</strong><br>
     <small>Análise e predição de conclusão de cursos em ambientes online, integrando dados de estudantes, modelos de machine learning e geração de insights para apoiar decisões de instituições educacionais.</small> 
     <div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"> 
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24"> 
-      <img src="https://img.shields.io/badge/Explainable%20AI-008080?style=for-the-badge" height="24"> </div>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+      <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge" height="24">
+      <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24">
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" height="24">
     <div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/Student-Course-Completion-Prediction-Dataset">🔗 Acessar repositório</a>
     </div> 
   </div> 
