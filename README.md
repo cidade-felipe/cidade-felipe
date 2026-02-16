@@ -237,11 +237,10 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e 
 ---
 
 ## 🌱 No que estou me aprofundando
-
+- Análise de dados e BI
 - APIs com FastAPI  
-- Dashboards e visualização com Plotly  
 - ML para educação  
-- Design limpo de projetos e documentação técnica  
+
 
 ---
 
