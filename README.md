@@ -19,7 +19,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 ## 💼 O que faço hoje
 
 - Pesquiso e desenvolvo soluções com dados e IA para EAD  
-- Estudo backend com organização e boas práticas  
+- Estudo análise, engenharia, visualização de dados e BI
 - Transformo trabalhos de faculdade em projetos reais  
 - Exploro automação, ML e visualização de dados  
 
