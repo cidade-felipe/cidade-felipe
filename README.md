@@ -43,9 +43,9 @@ Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
 
 Banco de dados: PostgreSQL  
 
-Ferramentas: Git, GitHub, VSCode, PgAdmin  
+Ferramentas: Git, GitHub, VSCode, PgAdmin, Microsoft Office e Power BI  
 
-Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável e visualização de dados  
+Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, visualização e análise de dados e BI
 
 ---
 
