@@ -76,7 +76,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 ## 🌐 Onde me encontrar
 
 - LinkedIn: [linkedin.com/in/cidadefelipe](https://www.linkedin.com/in/cidadefelipe/)
-- GitHub: **@cidade-felipe**
+- GitHub: [github.com/cidade-felipe](github.com/cidade-felipe)
 
 ---
 
