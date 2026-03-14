@@ -28,15 +28,15 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/python-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/html5-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/css3-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/postgresql-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/git-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/jupyter-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/powerbi.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/vscode-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/src/assets/icons/Antigravity-logo.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/css3-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/postgresql-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/git-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/jupyter-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/powerbi.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/vscode-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/Antigravity-logo.svg" height="40" />
 </div>
 
 Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
