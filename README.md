@@ -137,20 +137,6 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 <tr>
 <td width="50%" style="padding: 5px; vertical-align: top;">
 <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
-<strong>PET CLININ – Website</strong><br>
-<small>Interface Front-end de uma clínica veterinária fictícia com design responsivo e foco em UX.</small>
-<div style="margin-top:12px;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24">
-</div>
-<div style="margin-top:14px;">
-<a href="https://github.com/cidade-felipe/pet-clinin-website">🔗 Acessar repositório</a>
-</div>
-</div>
-</td>
-
-<td width="50%" style="padding: 5px; vertical-align: top;">
-<div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
 <strong>World Happiness Prediction</strong><br>
 <small>Modelagem do Índice de Felicidade global com regressão, SHAP e visualização geográfica.</small>
 <div style="margin-top:12px;">
@@ -164,9 +150,7 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 </div>
 </div>
 </td>
-</tr>
 
-<tr>
 <td width="50%" style="padding: 5px; vertical-align: top;">
 <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
 <strong>Ecommerce Shipping Analysis</strong><br>
@@ -185,20 +169,6 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 </div>
 </div>
 </td>
-
-<td width="50%" style="padding: 5px; vertical-align: top;">
-<div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
-<strong>Nova Wika HP</strong><br>
-<small>Sistema inspirado no universo Harry Potter que organiza feitiços, efeitos e estruturas mágicas.</small>
-<div style="margin-top:12px;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24">
-</div>
-<div style="margin-top:14px;">
-<a href="https://github.com/cidade-felipe/nova-wika-hp">🔗 Acessar repositório</a>
-</div>
-</div>
-</td>
 </tr>
 
 <tr>
@@ -212,19 +182,25 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 <img src="https://img.shields.io/badge/Automação-008000?style=for-the-badge" height="24">
 <img src="https://img.shields.io/badge/Smart%20Cities-F4A300?style=for-the-badge" height="24">
 </div>
-<div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/smart-city-os">🔗 Acessar repositório</a> </div> </div>
+<div style="margin-top:14px;">
+<a href="https://github.com/cidade-felipe/smart-city-os">🔗 Acessar repositório</a>
+</div>
+</div>
 </td>
 
-<td width="50%" style="padding: 5px; vertical-align: top;"> <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
+<td width="50%" style="padding: 5px; vertical-align: top;">
+<div style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px;">
 <strong>Student Course Completion Prediction Dataset</strong><br>
-<small>Análise e predição de conclusão de cursos em ambientes online, integrando dados de estudantes, modelos de machine learning e geração de insights para apoiar decisões de instituições educacionais.</small>
-<div style="margin-top:12px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
+<small>Análise e predição de conclusão de cursos em ambientes online, integrando modelos de ML para apoiar decisões educacionais.</small>
+<div style="margin-top:12px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24">
 <img src="https://img.shields.io/badge/Data%20Analysis-1F77B4?style=for-the-badge" height="24">
 <img src="https://img.shields.io/badge/Plotly-27338E?style=for-the-badge&logo=plotly&logoColor=white" height="24">
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" height="24">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24">
-<div style="margin-top:14px;"> <a href="https://github.com/cidade-felipe/Student-Course-Completion-Prediction-Dataset">🔗 Acessar repositório</a>
+</div>
+<div style="margin-top:14px;">
+<a href="https://github.com/cidade-felipe/Student-Course-Completion-Prediction-Dataset">🔗 Acessar repositório</a>
 </div>
 </div>
 </td>
