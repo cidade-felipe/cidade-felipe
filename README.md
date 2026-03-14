@@ -36,7 +36,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/jupyter-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/vscode-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/powerbi.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/antigravity-color.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/antigravity-color.svg" height="80" />
 </div>
 
 
