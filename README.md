@@ -36,7 +36,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/power-bi/power-bi-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" height="40" />
 </div>
 
 Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
