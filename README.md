@@ -1,4 +1,4 @@
-# Felipe Cidade 👨‍💻  
+# Felipe Cidade 👨‍💻  
 
 Estudo Tecnologias da Informação e Comunicação na UFSC e gosto de entender como as coisas funcionam antes de sair construindo. O que mais me atrai é transformar curiosidade em algo útil, misturando engenharia, educação e dados para criar soluções práticas.
 
@@ -18,10 +18,10 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
 
 ## 💼 O que faço hoje
 
-- Pesquiso e desenvolvo soluções com dados e IA para EAD  
+- Pesquiso e desenvolvo soluções com dados e IA para EAD  
 - Estudo análise, engenharia, visualização de dados e BI
-- Transformo trabalhos de faculdade em projetos reais  
-- Exploro automação, ML e visualização de dados  
+- Transformo trabalhos de faculdade em projetos reais  
+- Exploro automação, ML e visualização de dados  
 
 ---
 
@@ -37,13 +37,14 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/powerbi.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/vscode-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/Antigravity-logo.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/codex.svg" height="40" title="OpenAI Codex" />
 </div>
 
-Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
+Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
 
-Banco de dados: PostgreSQL  
+Banco de dados: PostgreSQL  
 
-Ferramentas: Git, GitHub, VSCode, Antigravity, PgAdmin, Microsoft Office e Power BI  
+Ferramentas: Git, GitHub, VSCode, Antigravity, PgAdmin, Microsoft Office e Power BI  
 
 Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, visualização e análise de dados e BI
 
@@ -54,6 +55,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight&card_width=320"/>
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cidade-felipe&theme=tokyonight&hide_border=false"/>
 
 </div>
 
@@ -213,8 +216,8 @@ Interesses: IA aplicada na educação, ETL, automação, APIs, ML explicável, v
 ## 🌱 No que estou me aprofundando
 
 - Análise de dados e BI
-- APIs com FastAPI  
-- ML para educação  
+- APIs com FastAPI  
+- ML para educação  
 
 ---
 
