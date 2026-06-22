@@ -37,7 +37,7 @@ Hoje passo boa parte do tempo programando em Python, analisando dados, integrand
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/powerbi.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/vscode-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/Antigravity-logo.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/codex-color.svg" height="60" title="OpenAI Codex" />
+  <img src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/codex-color.svg" height="80" title="OpenAI Codex" />
 </div>
 
 Linguagens e libs: Python, Pandas, NumPy, Matplotlib, SQL, HTML, CSS,  
