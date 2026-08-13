@@ -230,7 +230,19 @@ Análise da evolução das bolsas do Prouni entre 2005 e 2019, com recortes por 
 
 ## Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/cidadefelipe/) • [GitHub](https://github.com/cidade-felipe)
+<div align="left">
+  <a href="https://www.linkedin.com/in/cidadefelipe/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cidade-felipe" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/felipe.city/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32" />
+  </a>
+</div>
 
 ---
 
