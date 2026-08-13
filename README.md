@@ -1,39 +1,68 @@
-# Felipe Cidade 👨‍💻
-Estudante de Tecnologias da Informação e Comunicação (UFSC) — transformando curiosidade em soluções práticas que misturam engenharia, educação e dados.
+# Felipe Cidade
+
+Estudante de Tecnologias da Informação e Comunicação na UFSC e estagiário na área de dados e tecnologia.
+
+Gosto de transformar problemas pouco estruturados em soluções práticas usando dados, programação e inteligência artificial.
 
 <div align="center">
-  <!-- Badges -->
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green" />
-  <img alt="Status: Ativo" src="https://img.shields.io/badge/status-ativo-brightgreen" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3.x-blue" />
-  <img alt="Foco" src="https://img.shields.io/badge/foco-dados%20%7C%20backend-orange" />
-  <img alt="UFSC" src="https://img.shields.io/badge/UFSC-TIC-lightgrey" />
+
+<img alt="Status" src="https://img.shields.io/badge/status-ativo-brightgreen" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue" />
+<img alt="Dados" src="https://img.shields.io/badge/foco-dados%20%7C%20BI-orange" />
+<img alt="Machine Learning" src="https://img.shields.io/badge/ML-aplicado-purple" />
+<img alt="UFSC" src="https://img.shields.io/badge/UFSC-TIC-lightgrey" />
+
 </div>
 
 ---
 
 ## Sobre mim
-Estudo Tecnologias da Informação e Comunicação na UFSC e gosto de entender como as coisas funcionam antes de sair construindo. O que mais me atrai é transformar curiosidade em algo útil, misturando engenharia, educação e dados para criar soluções práticas.
 
-Hoje passo boa parte do tempo programando em Python, analisando dados, integrando com PostgreSQL e experimentando machine learning. Meu foco é resolver problemas de verdade — não só produzir código bonito para print de tela.
+Estudo Tecnologias da Informação e Comunicação na UFSC e tenho interesse principalmente em análise de dados, BI, machine learning, automação e desenvolvimento de soluções com IA.
 
----
+Gosto de entender o problema antes de escolher a ferramenta. Em meus projetos, normalmente parto de dados brutos ou de uma necessidade prática, estruturo o processo e tento chegar a algo realmente utilizável, seja um dashboard, um pipeline de machine learning, uma automação ou uma aplicação.
 
-## 💼 O que faço hoje
-- Pesquiso e desenvolvo soluções com dados e IA para Educação a Distância (EAD).
-- Estudo análise, engenharia, visualização de dados e BI.
-- Transformo trabalhos da faculdade em projetos reais.
-- Exploro automação, pipelines ETL, ML e visualização interativa.
+Também desenvolvo trabalhos relacionados à educação, análise de comportamento e uso de dados para apoio à tomada de decisão.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-Linguagens e bibliotecas: Python • Pandas • NumPy • Matplotlib • Plotly • SQL • HTML • CSS  
-Banco de dados: PostgreSQL  
-Ferramentas: Git • GitHub • VSCode • PgAdmin • Power BI • Antigravity • OpenAI Codex
+## O que faço hoje
+
+* Atuo em estágio na área de dados e tecnologia.
+* Trabalho com análise de dados, automação, BI e inteligência artificial.
+* Desenvolvo pesquisa aplicada a dados e IA na Educação a Distância.
+* Crio projetos com Python, SQL, PostgreSQL e Power BI.
+* Exploro machine learning, ETL, APIs e aplicações baseadas em modelos de linguagem.
+
+---
+
+## Tecnologias e ferramentas
+
+Linguagens:
+
+`Python` `SQL` `HTML` `CSS`
+
+Dados e Machine Learning:
+
+`Pandas` `NumPy` `scikit-learn` `Matplotlib` `Plotly` `XGBoost` `LightGBM` `CatBoost`
+
+Banco de dados:
+
+`PostgreSQL` `SQLite` `SQLAlchemy`
+
+BI e análise:
+
+`Power BI` `Jupyter Notebook`
+
+IA e aplicações:
+
+`LangChain` `FAISS` `Groq` `Google Gemini` `Azure OpenAI`
+
+Ferramentas:
+
+`Git` `GitHub` `VSCode` `pgAdmin` `OpenAI Codex` `Antigravity`
 
 <div>
-  <!-- ícones hospedados no repo -->
   <img alt="python" src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/python-original.svg" height="36" />
   <img alt="html5" src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/html5-original.svg" height="36" />
   <img alt="css3" src="https://raw.githubusercontent.com/cidade-felipe/cidade-felipe/main/assets/icons/css3-original.svg" height="36" />
@@ -48,134 +77,143 @@ Ferramentas: Git • GitHub • VSCode • PgAdmin • Power BI • Antigravity 
 
 ---
 
-## 📌 Projetos em destaque
-(links e descrições curtas — clique para ver o repositório)
+## Projetos em destaque
 
 ### CityBot
-CityBot é um assistente inteligente em Python que combina modelos de linguagem, OCR, leitura de PDFs, páginas da web e vídeos do YouTube em uma única interface. Ele permite conversar em linguagem natural sobre o conteúdo de arquivos e links, além de manter histórico em um banco SQLite e contar com memória de conversas.
+
+Assistente inteligente desenvolvido em Python para interação com diferentes fontes de informação.
+
+O CityBot permite conversar sobre PDFs, páginas da web, vídeos do YouTube e imagens, com suporte a OCR, histórico de conversas e persistência de contextos.
+
+O projeto possui interface gráfica em PySide6 e modo CLI, além de integração com Google Gemini e Azure OpenAI.
+
+Também suporta transcrição local de vídeos e geração de imagens.
+
+Tecnologias:
+
+`Python` `PySide6` `SQLite` `Gemini` `Azure OpenAI` `OpenCV` `Tesseract` `Whisper`
+
+[Ver repositório](https://github.com/cidade-felipe/citybot)
+
+---
+
+### City File Lab
+
+Aplicação para armazenamento, processamento e análise inteligente de documentos.
+
+O sistema recebe arquivos em diferentes formatos, extrai seus conteúdos, gera embeddings, cria índices vetoriais e permite fazer perguntas sobre cada documento utilizando RAG.
+
+Além da camada de IA, o projeto possui persistência em PostgreSQL, consultas SQL em modo somente leitura, geração de gráficos, logs e interface gráfica em Tkinter.
+
+Tecnologias:
+
+`Python` `PostgreSQL` `SQLAlchemy` `FAISS` `LangChain` `Groq` `Tkinter`
+
+[Ver repositório](https://github.com/cidade-felipe/city-file-lab)
+
+---
+
+### Heart Disease ML Pipeline
+
+Pipeline completo de machine learning para classificação de risco de doença cardíaca.
+
+O projeto cobre exploração e tratamento dos dados, pré-processamento, engenharia de atributos, treinamento, validação cruzada e comparação de nove algoritmos de classificação.
+
+Entre os modelos avaliados estão Regressão Logística, SVC, Random Forest, XGBoost, LightGBM e CatBoost.
+
+Na base analisada, o CatBoost apresentou o melhor resultado geral, com 87,70% de acurácia.
+
+Tecnologias:
+
+`Python` `Pandas` `scikit-learn` `XGBoost` `LightGBM` `CatBoost`
+
+[Ver repositório](https://github.com/cidade-felipe/heart-disease-ml-pipeline)
+
+---
+
+### Mental Health: Burnout in Tech Workers
+
+Análise de 100 mil registros sobre saúde mental e burnout entre profissionais de tecnologia.
+
+O projeto investiga relações entre burnout, estresse, ansiedade, depressão, carga de trabalho, senioridade, modelo de trabalho, suporte psicológico e intenção de troca de emprego.
+
+A preparação dos dados foi realizada em Python e a análise executiva foi construída em um dashboard de três páginas no Power BI.
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-3.x-blue)
-![Interface](https://img.shields.io/badge/interface-CLI%20%7C%20PySide6-lightblue)
+<img
+src="https://raw.githubusercontent.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers/main/figures/Mental-Health-Burnout-in-Tech-Workers-report_Page1.png"
+alt="Mental Health Burnout in Tech Workers Dashboard"
+width="90%"
+/>
 
 </div>
 
-🔗 https://github.com/cidade-felipe/citybot
+Tecnologias:
 
-O CityBot suporta leitura e extração de conteúdo de PDFs, páginas web, vídeos do YouTube e imagens (OCR), combinando essas fontes para responder perguntas contextualizadas. Possui interface CLI e GUI (PySide6), persistência em SQLite e integração com provedores de IA (Google Gemini / Azure OpenAI).
+`Python` `Pandas` `Plotly` `Power BI`
 
+[Ver repositório](https://github.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers)
 
-<!-- Large preview image under CityBot (Mental Health report Page1 as main visual) -->
+---
+
+## Outros projetos
+
+### Gaming and Mental Health Analysis
+
+Análise de hábitos de jogo, dependência, sono, ansiedade, produtividade e churn, com tratamento dos dados em Python e dashboard interativo no Power BI.
+
+`Python` `Pandas` `Plotly` `Power BI`
+
+[Ver repositório](https://github.com/cidade-felipe/gaming-and-mental-health-analysis)
+
+### Flavors of Cacao 2006-2024
+
+Análise de mais de 2.700 avaliações de chocolates, investigando origem dos grãos, teor de cacau, fabricantes e notas de qualidade.
+
+O projeto utiliza Python para ETL e Power BI para visualização e storytelling dos dados.
+
+`Python` `Pandas` `Power BI` `KaggleHub`
+
+[Ver repositório](https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024)
+
+### Prouni Data Insights
+
+Análise da evolução das bolsas do Prouni entre 2005 e 2019, com recortes por tipo de bolsa, gênero, raça, região, estado e modalidade de ensino.
+
+`Python` `Pandas` `Power BI` `GeoJSON`
+
+[Ver repositório](https://github.com/cidade-felipe/Prouni-Data-Insights)
+
+---
+
+## Em que estou me aprofundando
+
+* Análise de dados e Business Intelligence
+* APIs com FastAPI
+* Machine Learning aplicado à educação
+* Explicabilidade de modelos (XAI)
+* Pipelines ETL e automação
+* Integração de aplicações com modelos de linguagem
+
+---
+
+## Estatísticas
+
 <div align="center">
 
-![Mental Health — dashboard preview](https://raw.githubusercontent.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers/main/figures/Mental-Health-Burnout-in-Tech-Workers-report_Page1.png "Mental Health — visão geral" )
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=cidade-felipe&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 
 </div>
 
+---
 
-<!-- Small thumbnails/links below the big preview -->
-<div>
-  <a href="https://github.com/cidade-felipe/gaming-and-mental-health-analysis">
-    <img src="./assets/projects/gaming-and-mental-health-analysis/hero.png" alt="Gaming & Mental Health" width="260" style="margin-right:18px;" />
-  </a>
-  <a href="https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024">
-    <img src="./assets/projects/flavors-of-cacao-2006-2024/hero.png" alt="Flavors of Cacao" width="260" />
-  </a>
-</div>
+## Onde me encontrar
 
-
-O que o CityBot faz (resumo)
-
-- Recebe e identifica formatos de arquivo.
-- Extrai e estrutura conteúdo.
-- Responde perguntas com contexto usando indexação e modelos de linguagem.
-
-Destaques
-
-- Pipeline de pré-processamento de documentos.
-- Integração com mecanismo de busca contextual (RAG).
-- Interface CLI simples para testes locais.
-
-Como rodar (exemplo)
-
-1. git clone https://github.com/cidade-felipe/citybot
-2. cd citybot
-3. python -m venv .venv && source .venv/bin/activate
-4. pip install -r requirements.txt
-5. python run_demo.py --input ./examples/sample.pdf
+[LinkedIn](https://www.linkedin.com/in/cidadefelipe/) • [GitHub](https://github.com/cidade-felipe)
 
 ---
 
-### Mental Health — Burnout in Tech Workers
-Análise exploratória e dashboard em Power BI sobre saúde mental, burnout, estresse, ansiedade, depressão e intenção de troca de emprego entre profissionais de tecnologia (base ~100k registros). O relatório inclui visões por senioridade, setor, modelo de trabalho e fatores associados ao burnout.
-
-![Mental Health report — Page 1 small](https://raw.githubusercontent.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers/main/figures/Mental-Health-Burnout-in-Tech-Workers-report_Page1.png "Mental Health — visão geral")
-
-Tech: Python • Pandas • Plotly • Power BI  
-🔗 https://github.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers
-
-Breve: dashboard executivo em Power BI (arquivo .pbix incluído) com páginas para visão geral, fatores associados e recomendações para retenção e suporte.
-
----
-
-### Gaming & Mental Health Analysis
-Exploração de dados sobre hábitos de jogo e indicadores de saúde mental, com notebooks para limpeza, visualização e análise estatística. O repositório foca em correlações entre tempo de jogo, gênero, idade e medidas de estresse/ansiedade.
-
-![Gaming & Mental Health — preview](./assets/projects/gaming-and-mental-health-analysis/hero.png "Gaming & Mental Health — preview")
-
-Tech: Python • Jupyter • Plotly  
-🔗 https://github.com/cidade-felipe/gaming-and-mental-health-analysis
-
-Breve: notebooks com EDA, visualizações interativas e métricas, prontos para rodar localmente (veja notebooks/).
-
----
-
-### Flavors of Cacao (2006–2024)
-Análise sensorial e temporal das notas de sabores de amostras de cacau entre 2006 e 2024 — inclui EDA, mapas por origem, e identificação de tendências por safra e país.
-
-![Flavors of Cacao — preview](./assets/projects/flavors-of-cacao-2006-2024/hero.png "Flavors of Cacao — preview")
-
-Tech: Python • Pandas • Plotly • GeoJSON  
-🔗 https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024
-
-Breve: notebooks com transformação e visualizações; ideal para demonstração de análise exploratória e storytelling com dados sensoriais.
-
----
-
-- Heart Disease ML Pipeline — Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.  
-  🔗 https://github.com/cidade-felipe/heart-disease-ml-pipeline
-
-- Prouni Data Insights — Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.  
-  🔗 https://github.com/cidade-felipe/Prouni-Data-Insights
-
-- City File Lab (analisador-arquivos) — Identifica formatos, extrai conteúdo e organiza dados estruturados.  
-  🔗 https://github.com/cidade-felipe/analisador-arquivos
-
----
-
-## 🌱 Em que estou me aprofundando
-- Análise de dados e BI
-- APIs com FastAPI
-- ML aplicado à educação e explicabilidade (XAI)
-- Pipelines ETL e automação
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=cidade-felipe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</div>
-
----
-
-## 🌐 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/cidadefelipe/  
-- GitHub: https://github.com/cidade-felipe
-
----
-
-Curiosidade faz as perguntas. Código tenta responder — e a resposta melhora durante o processo.
+Curiosidade faz as perguntas. Código tenta responder, e a resposta melhora durante o processo.
