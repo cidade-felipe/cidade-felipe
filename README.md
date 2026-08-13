@@ -49,17 +49,92 @@ Ferramentas: Git • GitHub • VSCode • PgAdmin • Power BI • Antigravity 
 ---
 
 ## 📌 Projetos em destaque
-(links e descrições curtas — clique para ver o repositório)
+Abaixo estão três projetos com seções que aceitam GIFs/screenshot como demo — substitua os placeholders em ./assets/projects/<project-slug>/hero.gif quando quiser mostrar uma imagem real.
 
-- CityBot — Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.  
-  🔗 https://github.com/cidade-felipe/citybot
+---
 
-- Heart Disease ML Pipeline — Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.  
-  🔗 https://github.com/cidade-felipe/heart-disease-ml-pipeline
+### CityBot
+Assistente que interpreta arquivos, organiza informações e responde com contexto usando IA.
 
-- Prouni Data Insights — Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.  
-  🔗 https://github.com/cidade-felipe/Prouni-Data-Insights
+![CityBot demo](./assets/projects/citybot/hero.gif "CityBot — demo")
 
+Tech: Python • OpenAI • Processamento de Arquivos  
+🔗 Repositório: https://github.com/cidade-felipe/citybot
+
+O que faz
+- Recebe e identifica formatos de arquivo.
+- Extrai e estrutura conteúdo.
+- Responde perguntas com contexto usando indexação e modelos de linguagem.
+
+Destaques
+- Pipeline de pré-processamento de documentos.
+- Integração com mecanismo de busca contextual (RAG).
+- Interface CLI simples para testes locais.
+
+Como rodar (exemplo)
+1. git clone https://github.com/cidade-felipe/citybot
+2. cd citybot
+3. python -m venv .venv && source .venv/bin/activate
+4. pip install -r requirements.txt
+5. python run_demo.py --input ./examples/sample.pdf
+
+---
+
+### Heart Disease ML Pipeline
+Pipeline para previsão de risco cardíaco com validação, métricas e interpretação dos modelos.
+
+![Heart Disease demo](./assets/projects/heart-disease-ml-pipeline/hero.gif "Heart Disease ML Pipeline — demo")
+
+Tech: Python • Scikit-learn • Pandas • Matplotlib • SHAP  
+🔗 Repositório: https://github.com/cidade-felipe/heart-disease-ml-pipeline
+
+O que faz
+- Preprocessamento e validação de dados.
+- Treinamento e avaliação de modelos com cross‑validation.
+- Interpretação dos resultados com SHAP.
+
+Destaques
+- Pipeline reproducível com notebooks de análise.
+- Matrizes de confusão, ROC e relatórios de métricas automatizados.
+- Exemplos de deploy local para inferência.
+
+Como rodar (exemplo)
+1. git clone https://github.com/cidade-felipe/heart-disease-ml-pipeline
+2. cd heart-disease-ml-pipeline
+3. python -m venv .venv && source .venv/bin/activate
+4. pip install -r requirements.txt
+5. jupyter notebook notebooks/analysis.ipynb
+
+---
+
+### Prouni Data Insights
+Análise exploratória das bolsas do Prouni com gráficos, filtros e séries temporais.
+
+![Prouni demo](./assets/projects/prouni-data-insights/hero.gif "Prouni Data Insights — demo")
+
+Tech: Python • Pandas • Plotly • Jupyter  
+🔗 Repositório: https://github.com/cidade-felipe/Prouni-Data-Insights
+
+O que faz
+- ETL básico dos dados públicos do Prouni.
+- Dashboards interativos para explorar bolsas e séries históricas.
+- Visualizações exportáveis e relatórios.
+
+Destaques
+- Dashboards com filtros por ano, curso e região.
+- Exportação de gráficos em PNG/HTML.
+- Scripts de limpeza e transformação reutilizáveis.
+
+Como rodar (exemplo)
+1. git clone https://github.com/cidade-felipe/Prouni-Data-Insights
+2. cd Prouni-Data-Insights
+3. python -m venv .venv && source .venv/bin/activate
+4. pip install -r requirements.txt
+5. streamlit run app.py  # ou abrir notebooks/
+
+---
+
+## Outros projetos
 - City File Lab (analisador-arquivos) — Identifica formatos, extrai conteúdo e organiza dados estruturados.  
   🔗 https://github.com/cidade-felipe/analisador-arquivos
 
