@@ -220,9 +220,17 @@ Análise da evolução das bolsas do Prouni entre 2005 e 2019, com recortes por 
 
 <div align="center">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+  <img
+    height="150"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cidade-felipe&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
+  />
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=cidade-felipe&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img
+    height="150"
+    src="https://github-stats-extended.vercel.app/api?username=cidade-felipe&show_icons=true&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+  />
 
 </div>
 
