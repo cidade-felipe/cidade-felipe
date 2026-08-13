@@ -81,13 +81,13 @@ Ferramentas:
 
 ### CityBot
 
-Assistente inteligente desenvolvido em Python para interação com diferentes fontes de informação.
+Assistente inteligente desenvolvido em Python que integra modelos de linguagem a diferentes fontes de informação em uma única aplicação.
 
-O CityBot permite conversar sobre PDFs, páginas da web, vídeos do YouTube e imagens, com suporte a OCR, histórico de conversas e persistência de contextos.
+O CityBot permite conversar sobre PDFs, páginas da web, vídeos do YouTube e imagens, utilizando OCR, extração de conteúdo e persistência de contextos para manter informações disponíveis entre sessões.
 
-O projeto possui interface gráfica em PySide6 e modo CLI, além de integração com Google Gemini e Azure OpenAI.
+O projeto conta com interface gráfica em PySide6 e modo CLI, histórico de conversas em SQLite e integração com Google Gemini e Azure OpenAI. Para vídeos, utiliza legendas do YouTube e possui fallback de transcrição local com faster-whisper ou WhisperX quando necessário.
 
-Também suporta transcrição local de vídeos e geração de imagens.
+Também oferece geração de imagens com IA, leitura e exportação de textos obtidos por OCR e gerenciamento de contextos carregados diretamente pela interface.
 
 Tecnologias:
 
