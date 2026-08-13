@@ -95,39 +95,57 @@ Tecnologias:
 
 [Ver repositório](https://github.com/cidade-felipe/citybot)
 
----
+### Ecommerce Shipping Performance Dashboard
 
-### City File Lab
+Análise de desempenho de um e-commerce brasileiro a partir dos dados públicos da Olist, conectando vendas, crescimento, logística e experiência do cliente.
 
-Aplicação para armazenamento, processamento e análise inteligente de documentos.
+O projeto transforma dados transacionais em um dashboard executivo no Power BI, com indicadores de GMV, ticket médio, pedidos, atrasos, tempo de entrega e satisfação dos clientes.
 
-O sistema recebe arquivos em diferentes formatos, extrai seus conteúdos, gera embeddings, cria índices vetoriais e permite fazer perguntas sobre cada documento utilizando RAG.
+A análise também explora crescimento mensal e anual, desempenho logístico por região e a relação entre atrasos de entrega e indicadores financeiros.
 
-Além da camada de IA, o projeto possui persistência em PostgreSQL, consultas SQL em modo somente leitura, geração de gráficos, logs e interface gráfica em Tkinter.
+<div align="center">
 
-Tecnologias:
+<img
+src="https://raw.githubusercontent.com/cidade-felipe/ecommerce-shipping-performance-dashboard/main/figures/visao_geral.png"
+alt="Ecommerce Shipping Performance Dashboard"
+width="90%"
+/>
 
-`Python` `PostgreSQL` `SQLAlchemy` `FAISS` `LangChain` `Groq` `Tkinter`
-
-[Ver repositório](https://github.com/cidade-felipe/city-file-lab)
-
----
-
-### Heart Disease ML Pipeline
-
-Pipeline completo de machine learning para classificação de risco de doença cardíaca.
-
-O projeto cobre exploração e tratamento dos dados, pré-processamento, engenharia de atributos, treinamento, validação cruzada e comparação de nove algoritmos de classificação.
-
-Entre os modelos avaliados estão Regressão Logística, SVC, Random Forest, XGBoost, LightGBM e CatBoost.
-
-Na base analisada, o CatBoost apresentou o melhor resultado geral, com 87,70% de acurácia.
+</div>
 
 Tecnologias:
 
-`Python` `Pandas` `scikit-learn` `XGBoost` `LightGBM` `CatBoost`
+`Power BI` `DAX` `Modelagem de Dados` `Data Analytics` `Business Intelligence`
 
-[Ver repositório](https://github.com/cidade-felipe/heart-disease-ml-pipeline)
+[Ver repositório](https://github.com/cidade-felipe/ecommerce-shipping-performance-dashboard)
+
+---
+
+### Acidentes em Rodovias Federais no Brasil
+
+Análise de dados de acidentes registrados nas rodovias federais brasileiras entre 2017 e 2025.
+
+O projeto reúne dados públicos da Polícia Rodoviária Federal e informações geográficas do IBGE em um pipeline de tratamento desenvolvido em Python.
+
+O processo inclui consolidação de bases anuais, limpeza de dados, correção de encoding, padronização geográfica, engenharia de atributos e tratamento de inconsistências nos nomes dos municípios.
+
+Os dados processados alimentam um dashboard no Power BI voltado à identificação de padrões temporais, geográficos e demográficos dos acidentes.
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/cidade-felipe/Acidentes-rodovias-federais-Brasil/main/report/Acidentes-rodovias-federais-Brasil.png"
+alt="Dashboard de acidentes em rodovias federais brasileiras"
+width="90%"
+/>
+
+</div>
+
+Tecnologias:
+
+`Python` `Pandas` `NumPy` `Power BI` `ETL` `Data Analytics`
+
+[Ver repositório](https://github.com/cidade-felipe/Acidentes-rodovias-federais-Brasil)
 
 ---
 
