@@ -89,6 +89,12 @@ O projeto conta com interface gráfica em PySide6 e modo CLI, histórico de conv
 
 Também oferece geração de imagens com IA, leitura e exportação de textos obtidos por OCR e gerenciamento de contextos carregados diretamente pela interface.
 
+<img
+src="https://raw.githubusercontent.com/cidade-felipe/citybot/main/figures/interface.png"
+alt="CityBot Interface"
+width="90%"
+/>
+
 Tecnologias:
 
 `Python` `PySide6` `SQLite` `Gemini` `Azure OpenAI` `OpenCV` `Tesseract` `Whisper`
