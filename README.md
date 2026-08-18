@@ -1,4 +1,4 @@
-# Felipe Cidade
+# Felipe Cidade Soares
 
 Estudante de Tecnologias da Informação e Comunicação na UFSC e estagiário na área de dados e tecnologia.
 
