@@ -77,137 +77,112 @@ Ferramentas:
 
 ---
 
-## Projetos em destaque
-
-### CityBot
-
-Assistente inteligente desenvolvido em Python que integra modelos de linguagem a diferentes fontes de informação em uma única aplicação.
-
-O CityBot permite conversar sobre PDFs, páginas da web, vídeos do YouTube e imagens, utilizando OCR, extração de conteúdo e persistência de contextos para manter informações disponíveis entre sessões.
-
-O projeto conta com interface gráfica em PySide6 e modo CLI, histórico de conversas em SQLite e integração com Google Gemini e Azure OpenAI. Para vídeos, utiliza legendas do YouTube e possui fallback de transcrição local com faster-whisper ou WhisperX quando necessário.
-
-Também oferece geração de imagens com IA, leitura e exportação de textos obtidos por OCR e gerenciamento de contextos carregados diretamente pela interface.
-
-<img
-src="https://raw.githubusercontent.com/cidade-felipe/citybot/main/figures/interface.png"
-alt="CityBot Interface"
-width="90%"
-/>
-
-Tecnologias:
-
-`Python` `PySide6` `SQLite` `Gemini` `Azure OpenAI` `OpenCV` `Tesseract` `Whisper`
-
-[Ver repositório](https://github.com/cidade-felipe/citybot)
-
-### Ecommerce Shipping Performance Dashboard
-
-Análise de desempenho de um e-commerce brasileiro a partir dos dados públicos da Olist, conectando vendas, crescimento, logística e experiência do cliente.
-
-O projeto transforma dados transacionais em um dashboard executivo no Power BI, com indicadores de GMV, ticket médio, pedidos, atrasos, tempo de entrega e satisfação dos clientes.
-
-A análise também explora crescimento mensal e anual, desempenho logístico por região e a relação entre atrasos de entrega e indicadores financeiros.
+## Projetos
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/cidade-felipe/ecommerce-shipping-performance-dashboard/main/figures/visao_geral.png"
-alt="Ecommerce Shipping Performance Dashboard"
-width="90%"
-/>
+<strong>Um portfólio com cara de laboratório aplicado.</strong><br/>
+<sub>Apps, pipelines e dashboards que começam em dados brutos e terminam em decisão, automação ou leitura executiva.</sub>
 
 </div>
 
-Tecnologias:
+<br/>
 
-`Power BI` `DAX` `Modelagem de Dados` `Data Analytics` `Business Intelligence`
+| Começo | Transformo | Entrego |
+|---|---|---|
+| Dados públicos, arquivos, páginas, vídeos, imagens e bases de comportamento | ETL, limpeza, modelagem, métricas, OCR, LLMs e visualização | Dashboards, assistentes, análises executivas e histórias de dados prontas para uso |
 
-[Ver repositório](https://github.com/cidade-felipe/ecommerce-shipping-performance-dashboard)
+### Vitrine principal
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/citybot">
+        <img src="assets/projects/citybot/hero.png" alt="Interface do CityBot" width="100%" />
+      </a>
+      <h3>CityBot</h3>
+      <p><strong>Um assistente que transforma fontes soltas em conversa útil.</strong></p>
+      <p>PDFs, páginas da web, vídeos do YouTube, imagens e chat livre entram no mesmo fluxo. O sistema lê, extrai, conversa, salva contexto e mantém histórico em SQLite.</p>
+      <p><strong>Por baixo:</strong> PySide6, CLI, Gemini, Azure OpenAI, OCR com OpenCV e Tesseract, scraping, leitura de PDF e fallback de transcrição local com faster-whisper ou WhisperX.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>SQLite</code> <code>OCR</code> <code>LLMs</code></p>
+      <p><a href="https://github.com/cidade-felipe/citybot"><strong>Abrir repositório</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/ecommerce-shipping-performance-dashboard">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/ecommerce-shipping-performance-dashboard/main/figures/visao_geral.png" alt="Dashboard Ecommerce Shipping Performance" width="100%" />
+      </a>
+      <h3>Ecommerce Shipping Performance Dashboard</h3>
+      <p><strong>Quando logística vira resultado de negócio.</strong></p>
+      <p>Um dashboard executivo que conecta GMV, pedidos, ticket médio, atraso, SLA, satisfação do cliente e desempenho regional usando dados públicos da Olist.</p>
+      <p><strong>Por baixo:</strong> modelagem em esquema estrela, tabela calendário, DAX, time intelligence, análise MoM/YoY e storytelling orientado a decisão.</p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Modelagem de Dados</code> <code>BI</code></p>
+      <p><a href="https://github.com/cidade-felipe/ecommerce-shipping-performance-dashboard"><strong>Abrir repositório</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/Acidentes-rodovias-federais-Brasil">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/Acidentes-rodovias-federais-Brasil/main/report/Acidentes-rodovias-federais-Brasil.png" alt="Dashboard de acidentes em rodovias federais brasileiras" width="100%" />
+      </a>
+      <h3>Acidentes em Rodovias Federais no Brasil</h3>
+      <p><strong>Um mapa analítico da segurança viária brasileira.</strong></p>
+      <p>Dados da PRF e referências geográficas do IBGE viram uma série histórica de 2017 a 2025 para investigar padrões temporais, territoriais e demográficos dos sinistros.</p>
+      <p><strong>Por baixo:</strong> consolidação anual, correção de encoding, padronização de municípios, fuzzy matching, engenharia de atributos e preparação para Power BI.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>ETL</code> <code>Power BI</code></p>
+      <p><a href="https://github.com/cidade-felipe/Acidentes-rodovias-federais-Brasil"><strong>Abrir repositório</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers/main/figures/Mental-Health-Burnout-in-Tech-Workers-report_Page1.png" alt="Dashboard Mental Health Burnout in Tech Workers" width="100%" />
+      </a>
+      <h3>Mental Health: Burnout in Tech Workers</h3>
+      <p><strong>Burnout tratado como leitura de gestão, suporte e retenção.</strong></p>
+      <p>Uma análise de 100 mil registros sobre saúde mental em tecnologia, cruzando burnout, estresse, ansiedade, depressão, carga de trabalho, senioridade, modelo de trabalho e intenção de troca.</p>
+      <p><strong>Por baixo:</strong> preparação em Python, análise exploratória, métricas executivas e dashboard Power BI com cuidado explícito para interpretar associação sem afirmar causalidade.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Plotly</code> <code>Power BI</code></p>
+      <p><a href="https://github.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers"><strong>Abrir repositório</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-### Acidentes em Rodovias Federais no Brasil
+### Investigações de dados
 
-Análise de dados de acidentes registrados nas rodovias federais brasileiras entre 2017 e 2025.
-
-O projeto reúne dados públicos da Polícia Rodoviária Federal e informações geográficas do IBGE em um pipeline de tratamento desenvolvido em Python.
-
-O processo inclui consolidação de bases anuais, limpeza de dados, correção de encoding, padronização geográfica, engenharia de atributos e tratamento de inconsistências nos nomes dos municípios.
-
-Os dados processados alimentam um dashboard no Power BI voltado à identificação de padrões temporais, geográficos e demográficos dos acidentes.
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/cidade-felipe/Acidentes-rodovias-federais-Brasil/main/report/Acidentes-rodovias-federais-Brasil.png"
-alt="Dashboard de acidentes em rodovias federais brasileiras"
-width="90%"
-/>
-
-</div>
-
-Tecnologias:
-
-`Python` `Pandas` `NumPy` `Power BI` `ETL` `Data Analytics`
-
-[Ver repositório](https://github.com/cidade-felipe/Acidentes-rodovias-federais-Brasil)
-
----
-
-### Mental Health: Burnout in Tech Workers
-
-Análise de 100 mil registros sobre saúde mental e burnout entre profissionais de tecnologia.
-
-O projeto investiga relações entre burnout, estresse, ansiedade, depressão, carga de trabalho, senioridade, modelo de trabalho, suporte psicológico e intenção de troca de emprego.
-
-A preparação dos dados foi realizada em Python e a análise executiva foi construída em um dashboard de três páginas no Power BI.
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers/main/figures/Mental-Health-Burnout-in-Tech-Workers-report_Page1.png"
-alt="Mental Health Burnout in Tech Workers Dashboard"
-width="90%"
-/>
-
-</div>
-
-Tecnologias:
-
-`Python` `Pandas` `Plotly` `Power BI`
-
-[Ver repositório](https://github.com/cidade-felipe/Mental-Health-Burnout-in-Tech-Workers)
-
----
-
-## Outros projetos
-
-### Gaming and Mental Health Analysis
-
-Análise de hábitos de jogo, dependência, sono, ansiedade, produtividade e churn, com tratamento dos dados em Python e dashboard interativo no Power BI.
-
-`Python` `Pandas` `Plotly` `Power BI`
-
-[Ver repositório](https://github.com/cidade-felipe/gaming-and-mental-health-analysis)
-
-### Flavors of Cacao 2006-2024
-
-Análise de mais de 2.700 avaliações de chocolates, investigando origem dos grãos, teor de cacau, fabricantes e notas de qualidade.
-
-O projeto utiliza Python para ETL e Power BI para visualização e storytelling dos dados.
-
-`Python` `Pandas` `Power BI` `KaggleHub`
-
-[Ver repositório](https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024)
-
-### Prouni Data Insights
-
-Análise da evolução das bolsas do Prouni entre 2005 e 2019, com recortes por tipo de bolsa, gênero, raça, região, estado e modalidade de ensino.
-
-`Python` `Pandas` `Power BI` `GeoJSON`
-
-[Ver repositório](https://github.com/cidade-felipe/Prouni-Data-Insights)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/gaming-and-mental-health-analysis">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/gaming-and-mental-health-analysis/main/figures/gaming-and-mental-health-report_Page1.png" alt="Dashboard Gaming and Mental Health Analysis" width="100%" />
+      </a>
+      <h3>Gaming and Mental Health Analysis</h3>
+      <p><strong>Hábitos de jogo colocados lado a lado com rotina, saúde mental e produtividade.</strong></p>
+      <p>A análise conecta tempo de jogo, severidade de dependência, sono, ansiedade, absenteísmo, prazos perdidos, produtividade e churn.</p>
+      <p><strong>Por baixo:</strong> tratamento de uma base com 250 jogadores, normalização de categorias, tradução para português, ID rastreável, Plotly e Power BI.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Plotly</code> <code>Power BI</code></p>
+      <p><a href="https://github.com/cidade-felipe/gaming-and-mental-health-analysis"><strong>Abrir repositório</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/Flavors-of-Cacao-2006-2024/main/reports/Flavors_of_Cacao_2006_2024_report.png" alt="Dashboard Flavors of Cacao 2006-2024" width="100%" />
+      </a>
+      <h3>Flavors of Cacao 2006-2024</h3>
+      <p><strong>Chocolate analisado como dado: origem, teor, fabricante e qualidade.</strong></p>
+      <p>Mais de 2.790 avaliações viram uma leitura sobre barras premium, teor de cacau, países de origem e padrões de excelência no mercado de chocolates finos.</p>
+      <p><strong>Por baixo:</strong> KaggleHub, Pandas, tradução automática de países, padronização de decimais e dashboard Power BI com storytelling sensorial.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>KaggleHub</code> <code>Power BI</code></p>
+      <p><a href="https://github.com/cidade-felipe/Flavors-of-Cacao-2006-2024"><strong>Abrir repositório</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Prouni Data Insights</h3>
+      <p><strong>Educação superior vista por acesso, território e perfil demográfico.</strong></p>
+      <p>Dados do Prouni entre 2005 e 2019 são organizados em uma leitura visual sobre bolsas integrais e parciais, gênero, raça, modalidade de ensino, região e estado.</p>
+      <p><strong>Por baixo:</strong> preparação em Python, notebooks de análise, Power BI e GeoJSON para mapa por UF.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Power BI</code> <code>GeoJSON</code></p>
+      <p><a href="https://github.com/cidade-felipe/Prouni-Data-Insights"><strong>Abrir repositório</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
