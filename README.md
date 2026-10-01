@@ -174,6 +174,9 @@ Ferramentas:
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://github.com/cidade-felipe/Prouni-Data-Insights">
+        <img src="https://raw.githubusercontent.com/cidade-felipe/Prouni-Data-Insights/main/reports/images/prouni_data_report_page1.png" alt="Dashboard Prouni Data Insights" width="100%" />
+      </a>
       <h3>Prouni Data Insights</h3>
       <p><strong>Educação superior vista por acesso, território e perfil demográfico.</strong></p>
       <p>Dados do Prouni entre 2005 e 2019 são organizados em uma leitura visual sobre bolsas integrais e parciais, gênero, raça, modalidade de ensino, região e estado.</p>
